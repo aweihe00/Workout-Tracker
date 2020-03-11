@@ -19,10 +19,6 @@ Add new exercises to a new workout plan.
 
 View the combined weight of multiple exercises on the stats page.
 
-![Capture](https://user-images.githubusercontent.com/56567819/76460155-84fdbb80-63ab-11ea-8044-e9c14a14831c.PNG)
-
-![Capture](https://user-images.githubusercontent.com/56567819/76460197-99da4f00-63ab-11ea-9e2d-afe551243aaa.PNG)
-
 ![Capture](https://user-images.githubusercontent.com/56567819/76460306-c1311c00-63ab-11ea-9f0e-1bbeba95b9f9.PNG)
 
 ![Capture](https://user-images.githubusercontent.com/56567819/76460378-e6258f00-63ab-11ea-8ad3-c2f722f618a8.PNG)
